@@ -5,8 +5,7 @@
 
 body{
   background: gradient (rgb(227, 13, 13));
-  background-image: url("../src/Components/backimg7.jpg");
-  /* background-position: left ; */
+  background-image: url("../src/Components/backimg.avif");
   background-size: cover;
 }
 
