@@ -4,8 +4,9 @@
 }
 
 body{
-  background-color: rgb(8, 8, 103);
-  background-image: url("../src/Components/backimg.avif");
+  background: gradient (rgb(227, 13, 13));
+  background-image: url("../src/Components/backimg7.jpg");
+  /* background-position: left ; */
   background-size: cover;
 }
 
